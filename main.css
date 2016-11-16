@@ -10,7 +10,13 @@ body {
 
 h1 {
 	font-size: 100px;
-	font-family: Avenir, sans-serif;
+	font-family: 'Avenir', sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: 'Avenir', sans-serif;
 	font-weight: bold;
 }
 
