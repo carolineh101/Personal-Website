@@ -1,12 +1,12 @@
 body {
-	background: url("background.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background: url("background.jpg"); /* Links to your background image, which you can also replace with a URL. */
+	background-size: cover; /* Image covers page. */
+	background-repeat: no-repeat; /* Image does not repeat. */
+	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
 	background-position: top;
 	text-align: center;
-	color: white;
-	font-family: 'Avenir', sans-serif;
+	color: white; /* Text color. */
+	font-family: 'Avenir', sans-serif; /* Font: sans-serif included in case browser doesn't support first option. */
 }
 
 h1 {
@@ -17,7 +17,7 @@ h2 {
 	font-size: 40px;
 }
 
-
+/* This just centers the header container vertically on the page. */
 .container-fluid {
 	height: 200px;
 	width: 100%;
@@ -30,6 +30,7 @@ h2 {
 	margin: auto;
 }
 
+/* Styling for icons. */
 .fa {
 	color: white;
 	margin: 10px 5px;
