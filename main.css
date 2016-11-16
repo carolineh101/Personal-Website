@@ -1,0 +1,40 @@
+body {
+	background: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	font-size: 100px;
+	font-family: Avenir, sans-serif;
+	font-weight: bold;
+}
+
+
+.container-fluid {
+	height: 200px;
+	width: 100%;
+	
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+.fa {
+	color: white;
+	margin: 10px 5px;
+	font-size: 3em !important;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
