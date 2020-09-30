@@ -29,7 +29,7 @@ h2 {
 	right: 0;
 	margin: auto;
 }
-.container-fluid header h1{
+.container-fluid h1{
 text-transform:capitalize;	
 }
 /* Styling for icons. */
