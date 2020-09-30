@@ -1,5 +1,5 @@
-# Personal Website Template
+# An Amazing - Personal Website Template For Beginner
 
-Description: A beginner-friendly personal website template with helpful comments.
+Description: A user-friendly personal website template for all the beginner who want to learn website develpment with helpful comments in it.
 
 Fork this repository and edit away!
