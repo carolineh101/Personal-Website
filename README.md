@@ -1,6 +1,5 @@
 # Personal Website Template
 
 Logon to Amazing website
-Description: A beginner-friendly personal website template with helpful comments.
+For creating your own Name Tag. Vist now!
 
-Fork this repository and edit away!
