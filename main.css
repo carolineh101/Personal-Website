@@ -42,3 +42,68 @@ h2 {
 	bottom: 0;
 	width: 100%;
 }
+
+.nav-container{
+	width: 80%;
+	margin: auto 0;
+}
+
+header{
+	background: #55d6aa;
+}
+
+header::after{
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.logo{
+	float: left;
+	padding: 10px 0;
+}
+
+nav{
+	float: right;
+}
+
+nav ul{
+	margin:0 ;
+	padding: 0;
+	list-style: none;
+}
+
+nav li{
+	display: inline-block;
+	margin-left:70px ;
+	padding-top: 23px;
+	position: relative;
+}
+
+nav a{
+	color: #444);
+	font-size: 15px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+nav a:hover{
+	color: #000;
+}
+
+nav a::before{
+	content: '';
+	display: block;
+	height: 5px;
+	width: 100%;
+	background-color: rgb(93, 20, 211);
+	position: relative;
+	top: 0;
+	width: 0%;
+	transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before{
+	width: 100%;
+
+}
