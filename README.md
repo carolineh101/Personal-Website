@@ -2,4 +2,5 @@
 
 Description: A beginner-friendly personal website template with helpful comments.
 
-Fork this repository and edit away!
+Today's Quote
+"You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character."
