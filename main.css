@@ -11,10 +11,19 @@ body {
 
 h1 {
 	font-size: 100px;
+	color: rgb(136, 28, 28);
 }
 
 h2 {
 	font-size: 40px;
+	color: white;
+}
+span{
+	color: white;
+	font-size:60px;
+}
+p{
+	color: rgb(175, 175, 175);
 }
 
 /* This just centers the header container vertically on the page. */
@@ -22,12 +31,12 @@ h2 {
 	height: 200px;
 	width: 100%;
 	
-	position: absolute;
+	/* position: absolute;
 	top:0;
 	bottom: 0;
 	left: 0;
-	right: 0;
-	margin: auto;
+	right: 0; */
+	/* margin: auto; */
 }
 
 /* Styling for icons. */
@@ -39,6 +48,10 @@ h2 {
 
 .footer {
 	position: absolute;
-	bottom: 0;
+	/* bottom: 0; */
 	width: 100%;
+}
+img{
+	max-width: 500px;
+	max-height: 600px;
 }
