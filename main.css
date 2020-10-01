@@ -11,10 +11,12 @@ body {
 
 h1 {
 	font-size: 100px;
+	font-family: sans-serif;
 }
 
 h2 {
 	font-size: 40px;
+	font-style: italic;
 }
 
 /* This just centers the header container vertically on the page. */
