@@ -1,4 +1,4 @@
-# Personal Website Template
+# An Amazing Personal Website Template for Design.
 
 Description: A beginner-friendly personal website template with helpful comments.
 
