@@ -1,4 +1,4 @@
-# Personal Website Template
+# Personal Website Template - Good platform
 
 Description: A beginner-friendly personal website template with helpful comments.
 
