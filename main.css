@@ -1,3 +1,6 @@
+* {
+	font-family: cursive;
+}
 body {
 	background: url("background.jpg"); /* Links to your background image, which you can also replace with a URL. */
 	background-size: cover; /* Image covers page. */
