@@ -1,4 +1,4 @@
-# Personal Website Template
+# Personal Website unique Template
 
 Description: A beginner-friendly personal website template with helpful comments.
 
