@@ -1,6 +1,6 @@
 # Personal Website Template
 
-AWESOME BEGGINERS FRIENDLY WEBSITE TEMPLATES
+AWESOME BEGINNERS FRIENDLY WEBSITE TEMPLATES
 
 Description: A beginner-friendly personal website template with helpful comments.
 
