@@ -42,3 +42,27 @@ h2 {
 	bottom: 0;
 	width: 100%;
 }
+nav {
+    background-color: #404040;
+    color: white;
+     display: flex;
+    padding: 10px;
+}
+
+.navbar .nav-menu .menu {
+    color: white !important;
+    text-decoration: none !important;
+    padding: 10px;
+}
+
+.navbar .nav-menu {
+    margin-left: auto;
+}
+
+.navbar .nav-menu .menu {
+    transition: background-color 0.3s ease;
+}
+
+.navbar .nav-menu .menu:hover {
+    background-color: #505050;
+}
