@@ -1,4 +1,4 @@
-# Personal Website Template
+# The Professional website
 
 Description: A beginner-friendly personal website template with helpful comments.
 
