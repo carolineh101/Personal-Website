@@ -5,7 +5,7 @@ body {
 	background-attachment: fixed; /* Image doesn't move when you scroll up or down. */
 	background-position: top;
 	text-align: center;
-	color: white; /* Text color. */
+	color: solid green; /* Text color. */
 	font-family: 'Avenir', sans-serif; /* Font: sans-serif included in case browser doesn't support first option. */
 }
 
@@ -32,7 +32,7 @@ h2 {
 
 /* Styling for icons. */
 .fa {
-	color: white;
+	color: solid green;
 	margin: 10px 5px;
 	font-size: 3em !important;
 }
