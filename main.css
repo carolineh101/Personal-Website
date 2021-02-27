@@ -21,7 +21,7 @@ h2 {
 .container-fluid {
 	height: 200px;
 	width: 100%;
-	
+
 	position: absolute;
 	top:0;
 	bottom: 0;
@@ -41,4 +41,9 @@ h2 {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
+
+}
+
+i:hover{
+	color: #11CDD4;
 }
